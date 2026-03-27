@@ -1,0 +1,7 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZSB_AG_TAB"
+    ]
+  }
+}
